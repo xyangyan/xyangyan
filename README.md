@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 I am a Ph.D. graduate from the [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences (CAS)](https://www.cas.cn/).
 
-- 🔭 I’m currently working on **efficient compression & acceleration tools**
+- 🔭 I’m currently working on **model compression & acceleration**
 - 🌱 I’m currently learning **programmatic trading** & **robo-advisory systems**
 - 👯 I’m looking to collaborate on **open-source AI compression tools**
 - 💬 Ask me about **model acceleration, LLM efficiency, or algorithmic trading**
@@ -31,6 +31,8 @@ I am a Ph.D. graduate from the [Institute of Information Engineering](http://www
 
 ---
 
+
+<!--
 ## 🏆 Trophies & Achievements
 
 <div align="center">
@@ -38,6 +40,9 @@ I am a Ph.D. graduate from the [Institute of Information Engineering](http://www
 </div>
 
 ---
+-->
+
+
 
 ## 📫 Let's Connect!
 
@@ -46,10 +51,10 @@ I am a Ph.D. graduate from the [Institute of Information Engineering](http://www
 
 ---
 
-## 📊 Recent GitHub Activity
+## 💻 Weekly Dev Metrics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xyangyan&theme=react-dark&bg_color=121212&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xyangyan&theme=radical&hide_border=true&layout=compact&range=last_7_days" alt="WakaTime Stats" width="70%" />
 </div>
 
 ---
