@@ -51,6 +51,9 @@ I am a Ph.D. graduate from the [Institute of Information Engineering](http://www
 
 ---
 
+
+
+<!--
 ## 💻 Weekly Dev Metrics
 
 <div align="center">
@@ -58,6 +61,9 @@ I am a Ph.D. graduate from the [Institute of Information Engineering](http://www
 </div>
 
 ---
+-->
+
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=xyangyan&color=dc143c&style=flat-square&label=Profile+Views" alt="Profile Views" />
